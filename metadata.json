@@ -1,0 +1,6 @@
+{
+  "name": "Ocean Editorial - Dhivehi Digital Newsroom",
+  "description": "A modern, mobile-first Dhivehi digital news platform for the Maldives with contemporary editorial design and right-to-left typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
